@@ -1,7 +1,7 @@
-Homework - MANDATORY
-Task 1
+#Homework - MANDATORY
+#Task 1
 Go through the deck and make sure you are comfortable with Docker commands.
-Task 2
+#Task 2
 Go through the Get Started tutorial: https://docs.docker.com/get-started/
 Task 3
 Learn Docker best-practices added to Appendix
